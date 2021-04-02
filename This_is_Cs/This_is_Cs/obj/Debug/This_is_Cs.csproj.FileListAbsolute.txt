@@ -1,0 +1,7 @@
+D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\This_is_Cs.exe.config
+D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\This_is_Cs.exe
+D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\This_is_Cs.pdb
+D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csprojAssemblyReference.cache
+D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csproj.CoreCompileInputs.cache
+D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.exe
+D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.pdb
