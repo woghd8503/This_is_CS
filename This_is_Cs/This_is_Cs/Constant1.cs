@@ -6,19 +6,15 @@ using System.Threading.Tasks;
 
 namespace This_is_Cs
 {
-    class SignedUnsigned
+    class Constant1
     {
         static void Main(string[] args)
         {
-            byte a = 255;
-            sbyte b = (sbyte)a;
-
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            const int a = 3;
+            a = 4;
         }
     }
 }
 
-// 결과값
-// 255
-// -1
+// 결과 값
+// fail : 할당식의 왼쪽은 변수, 속성 또는 인텍서여야 합니다.

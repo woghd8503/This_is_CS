@@ -6,19 +6,26 @@ using System.Threading.Tasks;
 
 namespace This_is_Cs
 {
-    class SignedUnsigned
+    class SignedUnsigneConversion
     {
         static void Main(string[] args)
         {
-            byte a = 255;
-            sbyte b = (sbyte)a;
-
+            int a = 500;
             Console.WriteLine(a);
+
+            uint b = (uint)a;
             Console.WriteLine(b);
+
+            int x = -30;
+            Console.WriteLine(x);
+
+            uint y = (uint)x;   // 언더플로우
+            Console.WriteLine(y);
         }
     }
 }
-
-// 결과값
-// 255
-// -1
+// 결과 값
+// 500
+// 500
+// -30
+// 4294967266

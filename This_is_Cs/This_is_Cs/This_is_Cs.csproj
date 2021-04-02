@@ -43,10 +43,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SignedUnsigned.cs" />
+    <Compile Include="Test1.cs" />
+    <None Include="UsingVar.cs" />
+    <None Include="Constant.cs" />
+    <None Include="StringNumberConversion.cs" />
+    <None Include="SignedUnsigneConversion.cs" />
+    <None Include="String.cs" />
+    <None Include="SignedUnsigned.cs" />
     <None Include="HelloWorld.cs" />
     <None Include="IntegralTypes.cs" />
     <None Include="IntegerLiterals.cs" />
+    <None Include="Overflow.cs" />
+    <None Include="FloatingPoint.cs" />
+    <None Include="Decimal.cs" />
+    <None Include="Char.cs" />
+    <None Include="Bool.cs" />
+    <None Include="Object.cs" />
+    <None Include="BoxingUnboxing.cs" />
+    <None Include="IntegralConversion.cs" />
+    <None Include="FloatConversion.cs" />
+    <None Include="FloatToIntegral.cs" />
+    <None Include="Constant1.cs" />
+    <None Include="Enum.cs" />
+    <None Include="Enum1.cs" />
+    <None Include="Enum2.cs" />
+    <None Include="Nullable.cs" />
+    <None Include="CTS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

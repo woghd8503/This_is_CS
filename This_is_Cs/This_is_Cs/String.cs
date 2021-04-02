@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace This_is_Cs
 {
-    class SignedUnsigned
+    class String
     {
         static void Main(string[] args)
         {
-            byte a = 255;
-            sbyte b = (sbyte)a;
+            string a = "안녕하세요?";
+            string b = "박재홍입니다.";
 
             Console.WriteLine(a);
             Console.WriteLine(b);
@@ -20,5 +20,8 @@ namespace This_is_Cs
 }
 
 // 결과값
-// 255
-// -1
+// 안녕하세요?
+// 박재홍입니다.
+
+// char는 '' 작은 따옴표로
+// string은 "" 큰 따옴표로

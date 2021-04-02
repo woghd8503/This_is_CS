@@ -6,19 +6,22 @@ using System.Threading.Tasks;
 
 namespace This_is_Cs
 {
-    class SignedUnsigned
+    class Overflow
     {
         static void Main(string[] args)
         {
-            byte a = 255;
-            sbyte b = (sbyte)a;
+            uint a = uint.MaxValue;  // uint의 최대값은, 4294967295
 
             Console.WriteLine(a);
-            Console.WriteLine(b);
+
+            a = a + 1;
+
+            Console.WriteLine(a);
         }
     }
 }
 
 // 결과값
-// 255
-// -1
+// 4294967295
+// 0
+// 넘처서 0으로 할당
