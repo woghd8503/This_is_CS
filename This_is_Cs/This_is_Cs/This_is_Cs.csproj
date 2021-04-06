@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StringSearch.cs" />
+    <Compile Include="StringMotify.cs" />
+    <None Include="StringSearch.cs" />
     <None Include="Test1.cs" />
     <None Include="UsingVar.cs" />
     <None Include="Constant.cs" />
