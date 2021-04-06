@@ -5,3 +5,10 @@ D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csprojA
 D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csproj.CoreCompileInputs.cache
 D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.exe
 D:\01.Coding_study\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.pdb
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\This_is_Cs.exe.config
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\This_is_Cs.exe
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\This_is_Cs.pdb
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csprojAssemblyReference.cache
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csproj.CoreCompileInputs.cache
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.exe
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.pdb
