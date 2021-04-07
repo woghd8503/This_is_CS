@@ -12,3 +12,9 @@ C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csprojAssemblyR
 C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csproj.CoreCompileInputs.cache
 C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.exe
 C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.pdb
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\AngleSharp.dll
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\AngleSharp.xml
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project\This_is_Cs\This_is_Cs\This_is_Cs\obj\Debug\This_is_Cs.csproj.CopyComplete
