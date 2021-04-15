@@ -52,7 +52,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StringInterpolation.cs" />
+    <None Include="RelationalOperator.cs" />
+    <None Include="StringConcatenate.cs" />
+    <None Include="ArithmaticOperators.cs" />
+    <None Include="StringInterpolation.cs" />
     <None Include="StringFormatDatetime.cs" />
     <None Include="StringFormatNumber.cs" />
     <None Include="StringFormatBasic.cs" />
@@ -86,6 +89,9 @@
     <None Include="Enum2.cs" />
     <None Include="Nullable.cs" />
     <None Include="CTS.cs" />
+    <None Include="InCdecOperator.cs" />
+    <None Include="LogicalOperator.cs" />
+    <None Include="ConditionalOperator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
