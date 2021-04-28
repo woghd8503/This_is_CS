@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ShiftOperator.cs" />
     <None Include="RelationalOperator.cs" />
     <None Include="StringConcatenate.cs" />
     <None Include="ArithmaticOperators.cs" />
@@ -92,6 +93,12 @@
     <None Include="InCdecOperator.cs" />
     <None Include="LogicalOperator.cs" />
     <None Include="ConditionalOperator.cs" />
+    <None Include="NullConditionalOperator.cs" />
+    <None Include="BitwiseOperator.cs" />
+    <None Include="AssignmentOperator.cs" />
+    <None Include="NullCoalescing.cs" />
+    <None Include="IfElse.cs" />
+    <Compile Include="IfIf.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
