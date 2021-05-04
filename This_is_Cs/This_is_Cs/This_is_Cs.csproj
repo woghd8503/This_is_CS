@@ -52,6 +52,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Test2.cs" />
+    <None Include="While.cs" />
+    <None Include="Switch.cs" />
+    <None Include="Switch1.cs" />
     <None Include="ShiftOperator.cs" />
     <None Include="RelationalOperator.cs" />
     <None Include="StringConcatenate.cs" />
@@ -98,7 +102,16 @@
     <None Include="AssignmentOperator.cs" />
     <None Include="NullCoalescing.cs" />
     <None Include="IfElse.cs" />
-    <Compile Include="IfIf.cs" />
+    <None Include="IfIf.cs" />
+    <None Include="DoWhile.cs" />
+    <None Include="For.cs" />
+    <None Include="ForFor.cs" />
+    <None Include="Foreach.cs" />
+    <None Include="InfiniteFor.cs" />
+    <None Include="Break.cs" />
+    <None Include="InfiniteWhile.cs" />
+    <None Include="Continue.cs" />
+    <None Include="GoTo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
