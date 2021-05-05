@@ -60,7 +60,27 @@ namespace This_is_Cs
             } while (n < 5);
 
             Console.WriteLine("\nTest4");
-            
+            do
+            {
+                Console.WriteLine("숫자를 입력하세요 / 종료를 원하시면 00을 입력하세요");
+                string input = Console.ReadLine();
+                int testNum = Convert.ToInt32(input);
+                Console.Write("testNum:{0}\n", testNum);
+                if (testNum > 0)
+                {
+                    for (int i = 0; i < testNum; i++)
+                    {
+                        for (int j = 0; j <= i; j++)
+                        {
+                            Console.Write("*");
+                        }
+                        Console.WriteLine();
+                    }
+                }
+                else Console.WriteLine("0보다 작거나 같은 숫자는 입력할 수 없습니다.");
+
+                if (testNum == 00) break;
+            } while (true);
         }
     }
 }
