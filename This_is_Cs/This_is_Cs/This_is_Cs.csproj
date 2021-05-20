@@ -52,7 +52,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Test2.cs" />
+    <Compile Include="RefReturn.cs" />
+    <None Include="SwapByRef.cs" />
+    <None Include="SwapByValue.cs" />
+    <None Include="Return.cs" />
+    <None Include="Test2.cs" />
     <None Include="While.cs" />
     <None Include="Switch.cs" />
     <None Include="Switch1.cs" />
@@ -112,6 +116,7 @@
     <None Include="InfiniteWhile.cs" />
     <None Include="Continue.cs" />
     <None Include="GoTo.cs" />
+    <None Include="Method.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
